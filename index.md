@@ -12,3 +12,10 @@ int main(void)
   return 0;
 }
 ```
+
+Creating a task list
+- [ ] wake up
+- [ ] hit snooze
+- [ ] wake up
+- [ ] get dressed
+- [ ] go to class
